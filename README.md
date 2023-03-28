@@ -1,2 +1,2 @@
-# Touch2
+# Touch
 touch on picture
